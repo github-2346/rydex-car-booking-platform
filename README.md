@@ -1,4 +1,4 @@
-# Rydex -- Car Booking Platform
+# Rydex - Car Booking Platform
 
 Rydex is a full-stack ride booking platform which allows passengers to book rides, drivers to accept
 rides, and admins to manage the platform.
@@ -214,7 +214,7 @@ The platform includes three main roles.
 
 ## 1. Clone the Repository
 
-git clone "paste the repo link here"
+git clone https://github.com/github-2346/rydex-car-booking-platform.git
 
 
 ## 2. Run Backend
