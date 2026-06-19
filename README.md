@@ -231,26 +231,3 @@ npm install
 
 npm run dev
 
-
-# Environment Configuration
-
-You will need to configure:
-
--   Database connection
--   Stripe API keys
--   JWT secret key
--   Redis configuration
-
-These settings are usually placed inside:
-
-application.properties\
-\
-application.yml
-
-# Future Improvements
-
-Possible improvements for the platform:
-
--   Mobile application
--   Live driver tracking
--   Push notification system
